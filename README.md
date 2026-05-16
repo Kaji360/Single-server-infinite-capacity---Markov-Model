@@ -31,4 +31,5 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Result :
 Thus, the performance measures of the single-server queue system are successfully calculated.
 
-
+##  Github link
+https://github.com/Kaji360/Single-server-infinite-capacity---Markov-Model/edit/main/README.md

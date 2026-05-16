@@ -1,4 +1,3 @@
-<img width="860" height="404" alt="592911917-b4186ec7-b37c-40b1-8115-2debd730bdbd" src="https://github.com/user-attachments/assets/7f8585ac-d987-478f-8a39-fffd6b9174bf" />
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 12 seconds, serivice time of lathe machine follows exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
@@ -27,6 +26,6 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
-
+<img width="860" height="404" alt="592911917-b4186ec7-b37c-40b1-8115-2debd730bdbd" src="https://github.com/user-attachments/assets/7f8585ac-d987-478f-8a39-fffd6b9174bf" />
 ## Result :
 Thus, the performance measures of the single-server queue system are successfully calculated.

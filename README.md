@@ -28,4 +28,6 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ## Output :
 <img width="860" height="404" alt="592911917-b4186ec7-b37c-40b1-8115-2debd730bdbd" src="https://github.com/user-attachments/assets/7f8585ac-d987-478f-8a39-fffd6b9174bf" />
 ## Result :
+
 Thus, the performance measures of the single-server queue system are successfully calculated.
+
